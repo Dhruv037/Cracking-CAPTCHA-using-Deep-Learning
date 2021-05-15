@@ -1,0 +1,2 @@
+# Cracking-CAPTCHA-using-Deep-Learning
+A CAPTCHA(Completely Automated Public Turing test to tell Computers and Human Apart), now a days which is commonly used in internet for security purpose. But due to advanced learning techniques these CAPTCHAs are often decoded easily. So, we are interested in testing the sensitivity and strength of the CAPTCHA images. We are having CAPTCHA images and we need to depict what is value of the captcha that is written in the image using ML techniques. We developed decoders based on CNN, SVM and K-Means, and compared their efficiencies. 
